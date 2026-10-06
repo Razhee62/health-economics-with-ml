@@ -1,4 +1,4 @@
-# health-economics-with-ml
+# Health-Economics-with-ml
 Predicting Out-of-Pocket Healthcare Expenditure using Macroeconomic Machine Learning.
 # Predicting Out-of-Pocket Healthcare Expenditure using Macroeconomic Machine Learning
 
